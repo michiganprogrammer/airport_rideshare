@@ -1,0 +1,109 @@
+════════════════════════════════════════
+APP NAME
+Functional Requirements Document (FRD)
+Version: 1.0
+Date:
+Author:
+════════════════════════════════════════
+
+
+────────────────────────────────────────
+SECTION 1 — OVERVIEW
+────────────────────────────────────────
+A ride sharing app that connects riders
+with drivers. Riders can book trips and
+track their driver. Drivers can accept
+multiple riders in one trip.
+
+Scope
+─────────────────
+Included
+- Rider booking and tracking
+- Driver trip management
+- Ratings
+- Trip history
+
+Not Included
+- Payments
+- Admin dashboard
+- Scheduling future trips
+
+
+────────────────────────────────────────
+SECTION 2 — USER ROLES
+────────────────────────────────────────
+Rider
+─────────────────
+- Books trips
+- Tracks driver
+- Rates driver after trip
+
+Driver
+─────────────────
+- Accepts riders
+- Manages active trip
+- Rates riders after trip
+
+
+────────────────────────────────────────
+SECTION 3 — FUNCTIONS
+────────────────────────────────────────
+
+── RIDER ──────────────────────────────
+
+FUNCTION: Register
+─────────────────
+Actor       Rider
+Trigger     Rider submits registration form
+Input       firstName, lastName, phoneNumber, email
+Process     Create rider account
+Output      Rider id
+Result      Rider account created
+
+FUNCTION: Login
+─────────────────
+Actor       Rider
+Trigger     Rider submits login form
+Input       email, phoneNumber
+Process     Verify rider account
+Output      Auth token
+Result      Rider logged in
+
+FUNCTION: Book a Trip
+─────────────────
+Actor       Rider
+Trigger     Rider submits booking request
+Input       riderId, starting_location, ending_location
+Process     Find available driver
+            Calculate price
+            Create active booking
+Output      tripId, driverId, price
+Result      Booking created
+            Driver notified
+
+FUNCTION: Cancel a Trip
+─────────────────
+Actor       Rider
+Trigger     Rider cancels before inVan
+Input       tripId, riderId
+Process     Remove rider from active booking
+Output      Confirmation
+Result      Booking cancelled
+            Driver notified
+
+FUNCTION: View Active Booking
+─────────────────
+Actor       Rider
+Trigger     Rider opens active booking screen
+Input       riderId
+Process     Fetch active booking record
+Output      tripId, driverId, status, price,
+            starting_location, ending_location,
+            current_locationDriver
+Result      Rider sees current trip details
+
+FUNCTION: Update Own Location
+─────────────────
+Actor       Rider
+Trigger     Rider location changes
+Input       riderId, current_locationRider
