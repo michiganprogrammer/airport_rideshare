@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="dwn49BAO_7Qt1j4vyHa_">
-    <mxGraphModel dx="1108" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1171" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,28 @@
           <mxGeometry height="60" width="480" x="60" y="60" as="geometry" />
         </mxCell>
         <mxCell id="ZXmLye4WYz5JW6THN3N--3" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="Some areas are not safe" vertex="1">
-          <mxGeometry height="110" width="180" x="580" y="10" as="geometry" />
+          <mxGeometry height="110" width="180" x="30" y="170" as="geometry" />
         </mxCell>
         <mxCell id="ZXmLye4WYz5JW6THN3N--5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Worst case scenario: suppose you have 8 people in troy. That&#39;s 40 miles. so 8 uber drivers would drive 80 miles(return). that&#39;s 640 miles. huge saving!!!&lt;/div&gt;" vertex="1">
-          <mxGeometry height="150" width="230" x="540" y="180" as="geometry" />
+          <mxGeometry height="150" width="230" x="260" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="3V9UZf0SNv3yNVWR_qLZ-3" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="Van could breakdown during&lt;br&gt;trip, or just before booking" vertex="1">
+          <mxGeometry height="100" width="200" x="20" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3V9UZf0SNv3yNVWR_qLZ-4" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="&lt;div&gt;what if rider Vomits?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="520" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3V9UZf0SNv3yNVWR_qLZ-5" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="&lt;div&gt;what if rider isn&#39;t where they need to be, need to give strict time before you skip them&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="160" x="670" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3V9UZf0SNv3yNVWR_qLZ-6" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="&lt;div&gt;what if someone put wrong destination? how do you handle it, maybe old person by mistake&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="170" x="650" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="3V9UZf0SNv3yNVWR_qLZ-7" edge="1" parent="1" source="3V9UZf0SNv3yNVWR_qLZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.07;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.167;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" target="3V9UZf0SNv3yNVWR_qLZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3V9UZf0SNv3yNVWR_qLZ-8" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="&lt;div&gt;What if they don&#39;t wear their seat belts&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="50" y="430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
