@@ -61,6 +61,9 @@
         <mxCell id="fz-o9FOIOGUbKM3HRnTC-9" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="completes trip and heads back to airport" vertex="1">
           <mxGeometry height="60" width="120" x="450" y="710" as="geometry" />
         </mxCell>
+        <mxCell id="fz-o9FOIOGUbKM3HRnTC-11" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="This could also work for medical transportation, or going to areas with high parking prices with a group (downtown)" vertex="1">
+          <mxGeometry height="170" width="220" x="190" y="350" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
