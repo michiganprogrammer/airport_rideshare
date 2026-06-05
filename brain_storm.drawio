@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="dwn49BAO_7Qt1j4vyHa_">
-    <mxGraphModel dx="1171" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,36 @@
         </mxCell>
         <mxCell id="3V9UZf0SNv3yNVWR_qLZ-8" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="&lt;div&gt;What if they don&#39;t wear their seat belts&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="50" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="fz-o9FOIOGUbKM3HRnTC-3" edge="1" parent="1" source="fz-o9FOIOGUbKM3HRnTC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fz-o9FOIOGUbKM3HRnTC-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fz-o9FOIOGUbKM3HRnTC-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="rider sets appointment according to flight" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="fz-o9FOIOGUbKM3HRnTC-5" edge="1" parent="1" source="fz-o9FOIOGUbKM3HRnTC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fz-o9FOIOGUbKM3HRnTC-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fz-o9FOIOGUbKM3HRnTC-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="plane lands, and they get in van" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="fz-o9FOIOGUbKM3HRnTC-4" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="hops off once destination is reached" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="fz-o9FOIOGUbKM3HRnTC-8" edge="1" parent="1" source="fz-o9FOIOGUbKM3HRnTC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fz-o9FOIOGUbKM3HRnTC-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fz-o9FOIOGUbKM3HRnTC-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Driver gets trip with route" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="fz-o9FOIOGUbKM3HRnTC-10" edge="1" parent="1" source="fz-o9FOIOGUbKM3HRnTC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fz-o9FOIOGUbKM3HRnTC-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fz-o9FOIOGUbKM3HRnTC-7" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="drops off riders one by one" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="fz-o9FOIOGUbKM3HRnTC-9" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="completes trip and heads back to airport" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="710" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
