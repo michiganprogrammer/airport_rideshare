@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="dwn49BAO_7Qt1j4vyHa_">
+    <mxGraphModel dx="1108" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZXmLye4WYz5JW6THN3N--2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="plane lands at airport, 8 people take van to their destination.&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="480" x="60" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXmLye4WYz5JW6THN3N--3" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="Some areas are not safe" vertex="1">
+          <mxGeometry height="110" width="180" x="580" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXmLye4WYz5JW6THN3N--5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Worst case scenario: suppose you have 8 people in troy. That&#39;s 40 miles. so 8 uber drivers would drive 80 miles(return). that&#39;s 640 miles. huge saving!!!&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="230" x="540" y="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
