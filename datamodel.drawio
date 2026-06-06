@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="A9RQQFvc69Bcvs51ioXs">
-    <mxGraphModel>
+    <mxGraphModel dx="1171" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LnrgRAFDtomKbrFP-9nJ-1" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="Rider" vertex="1">
+          <mxGeometry height="170" width="160" x="330" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LnrgRAFDtomKbrFP-9nJ-2" parent="LnrgRAFDtomKbrFP-9nJ-1" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="&lt;div&gt;First Name&lt;/div&gt;&lt;div&gt;Last Name&lt;/div&gt;&lt;div&gt;phone number&lt;/div&gt;&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;Home Address&lt;/div&gt;&lt;div&gt;Payment information&lt;/div&gt;&lt;div&gt;riderId&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="160" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LnrgRAFDtomKbrFP-9nJ-13" edge="1" parent="1" source="LnrgRAFDtomKbrFP-9nJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LnrgRAFDtomKbrFP-9nJ-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LnrgRAFDtomKbrFP-9nJ-5" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="Rider_booking_request" vertex="1">
+          <mxGeometry height="160" width="160" x="90" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="LnrgRAFDtomKbrFP-9nJ-6" parent="LnrgRAFDtomKbrFP-9nJ-5" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;riderId&lt;/div&gt;&lt;div&gt;riderLocation&lt;/div&gt;&lt;div&gt;riderDestination&lt;/div&gt;&lt;div&gt;rideDate&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="160" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LnrgRAFDtomKbrFP-9nJ-11" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="returned_data" vertex="1">
+          <mxGeometry height="140" width="160" x="330" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="LnrgRAFDtomKbrFP-9nJ-12" parent="LnrgRAFDtomKbrFP-9nJ-11" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="&lt;div&gt;DriverLocation&lt;/div&gt;&lt;div&gt;rideTime&lt;/div&gt;&lt;div&gt;rideDistance&lt;/div&gt;&lt;div&gt;ridePrice&lt;/div&gt;&lt;div&gt;rideDate&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="160" y="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
