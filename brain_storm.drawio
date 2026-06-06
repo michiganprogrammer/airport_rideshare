@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="dwn49BAO_7Qt1j4vyHa_">
-    <mxGraphModel dx="1022" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1233" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,6 +63,85 @@
         </mxCell>
         <mxCell id="fz-o9FOIOGUbKM3HRnTC-11" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="This could also work for medical transportation, or going to areas with high parking prices with a group (downtown)" vertex="1">
           <mxGeometry height="170" width="220" x="190" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="I4pVvb7a1eDd4WhZ5GpQ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="APIArchitecture - this is what you give the programmer.&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="430" x="300" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="I4pVvb7a1eDd4WhZ5GpQ-2" edge="1" parent="1" source="I4pVvb7a1eDd4WhZ5GpQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="I4pVvb7a1eDd4WhZ5GpQ-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I4pVvb7a1eDd4WhZ5GpQ-3" edge="1" parent="1" source="I4pVvb7a1eDd4WhZ5GpQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="I4pVvb7a1eDd4WhZ5GpQ-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I4pVvb7a1eDd4WhZ5GpQ-4" edge="1" parent="1" source="I4pVvb7a1eDd4WhZ5GpQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="I4pVvb7a1eDd4WhZ5GpQ-10" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="1145" />
+              <mxPoint x="70" y="1145" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I4pVvb7a1eDd4WhZ5GpQ-5" edge="1" parent="1" source="I4pVvb7a1eDd4WhZ5GpQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="I4pVvb7a1eDd4WhZ5GpQ-11" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="1160" />
+              <mxPoint x="140" y="1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I4pVvb7a1eDd4WhZ5GpQ-6" edge="1" parent="1" source="I4pVvb7a1eDd4WhZ5GpQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="I4pVvb7a1eDd4WhZ5GpQ-12" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="1070" />
+              <mxPoint x="320" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I4pVvb7a1eDd4WhZ5GpQ-7" edge="1" parent="1" source="I4pVvb7a1eDd4WhZ5GpQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="I4pVvb7a1eDd4WhZ5GpQ-13" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I4pVvb7a1eDd4WhZ5GpQ-8" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="What a coder needs" vertex="1">
+          <mxGeometry height="80" width="120" x="70" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="I4pVvb7a1eDd4WhZ5GpQ-9" parent="1" style="whiteSpace=wrap;html=1;" value="&amp;nbsp;Data Model - What are the objects and what do they contain." vertex="1">
+          <mxGeometry height="60" width="310" x="430" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="I4pVvb7a1eDd4WhZ5GpQ-10" parent="1" style="whiteSpace=wrap;html=1;" value="State Machine -&amp;nbsp;For every object that changes over time — what are the states and what triggers the transitions. This is literally the logic of your app. Without this the coder is guessing how your business works" vertex="1">
+          <mxGeometry height="60" width="450" x="40" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="I4pVvb7a1eDd4WhZ5GpQ-11" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;strong&gt;API List&lt;/strong&gt;&lt;br/&gt;Every action the frontend needs from the backend:" vertex="1">
+          <mxGeometry height="60" width="370" x="90" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="I4pVvb7a1eDd4WhZ5GpQ-12" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;strong&gt;Third Party Services&lt;/strong&gt;&lt;br/&gt;Tell them — use Google Maps for routing, Stripe for payments, Twilio for SMS" vertex="1">
+          <mxGeometry height="60" width="330" x="155" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="I4pVvb7a1eDd4WhZ5GpQ-13" parent="1" style="whiteSpace=wrap;html=1;" value="WireFrame&lt;div&gt;What exists on each screen, annotated with what each element does&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="345" x="335" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="I4pVvb7a1eDd4WhZ5GpQ-14" edge="1" parent="1" source="I4pVvb7a1eDd4WhZ5GpQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="I4pVvb7a1eDd4WhZ5GpQ-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I4pVvb7a1eDd4WhZ5GpQ-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="State Machine" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="1410" as="geometry" />
+        </mxCell>
+        <mxCell id="I4pVvb7a1eDd4WhZ5GpQ-16" edge="1" parent="1" source="I4pVvb7a1eDd4WhZ5GpQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="I4pVvb7a1eDd4WhZ5GpQ-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I4pVvb7a1eDd4WhZ5GpQ-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Data model" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="1410" as="geometry" />
+        </mxCell>
+        <mxCell id="I4pVvb7a1eDd4WhZ5GpQ-18" edge="1" parent="1" source="I4pVvb7a1eDd4WhZ5GpQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="I4pVvb7a1eDd4WhZ5GpQ-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I4pVvb7a1eDd4WhZ5GpQ-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="API List" vertex="1">
+          <mxGeometry height="60" width="120" x="490" y="1410" as="geometry" />
+        </mxCell>
+        <mxCell id="I4pVvb7a1eDd4WhZ5GpQ-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="third party services" vertex="1">
+          <mxGeometry height="60" width="120" x="690" y="1410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
