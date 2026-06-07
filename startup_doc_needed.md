@@ -1,4 +1,4 @@
-There are 3 main roles, Founder, Designer and Progarmmer. Below is what questions each should ask
+There are 3 main roles, Founder, Designer and System Architect. Below is what questions each should ask
 that will drive a document
 
 ## Founder
@@ -12,5 +12,11 @@ that will drive a document
 * Give step by step of how customer interfaces with your product - Customer Journey
 
 ## Designer
-* How will user user it - Flow diagram
+* Map each journey to flow diagram (detailed) - Flow diagram
 * How will it look - wireframe
+
+## System Architect
+* What are the functions needed to implement flows? → System architecture / function breakdown
+* How does data move through the system? → APIs + data models
+* How are states handled? - defining state rules → State machines / backend logic
+* How do components interact? → Technical design doc
