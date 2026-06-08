@@ -79,6 +79,12 @@
         <mxCell id="EzhNCbNShWACHMv4SYCz-5" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="need to explore rural areas, could have potential" vertex="1">
           <mxGeometry height="80" width="120" x="200" y="1040" as="geometry" />
         </mxCell>
+        <mxCell id="EzhNCbNShWACHMv4SYCz-6" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="Dollar vans!!" vertex="1">
+          <mxGeometry height="80" width="120" x="365" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="EzhNCbNShWACHMv4SYCz-7" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="Via transportation" vertex="1">
+          <mxGeometry height="80" width="120" x="70" y="1170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
