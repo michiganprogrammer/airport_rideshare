@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="dwn49BAO_7Qt1j4vyHa_">
-    <mxGraphModel dx="683" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1406" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZXmLye4WYz5JW6THN3N--2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="plane lands at airport, 8 people take van to their destination.&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="480" x="80" y="40" as="geometry" />
+          <mxGeometry height="60" width="480" x="155" y="40" as="geometry" />
         </mxCell>
         <mxCell id="ZXmLye4WYz5JW6THN3N--3" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="Some areas are not safe" vertex="1">
           <mxGeometry height="110" width="180" x="30" y="170" as="geometry" />
@@ -17,13 +17,13 @@
           <mxGeometry height="100" width="200" x="10" y="300" as="geometry" />
         </mxCell>
         <mxCell id="3V9UZf0SNv3yNVWR_qLZ-4" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="&lt;div&gt;what if rider Vomits?&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="520" y="160" as="geometry" />
+          <mxGeometry height="80" width="120" x="515" y="190" as="geometry" />
         </mxCell>
         <mxCell id="3V9UZf0SNv3yNVWR_qLZ-5" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="&lt;div&gt;what if rider isn&#39;t where they need to be, need to give strict time before you skip them&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="160" x="670" y="40" as="geometry" />
+          <mxGeometry height="160" width="160" x="650" y="120" as="geometry" />
         </mxCell>
         <mxCell id="3V9UZf0SNv3yNVWR_qLZ-6" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="&lt;div&gt;what if someone put wrong destination? how do you handle it, maybe old person by mistake&lt;/div&gt;" vertex="1">
-          <mxGeometry height="150" width="170" x="540" y="290" as="geometry" />
+          <mxGeometry height="150" width="170" x="510" y="290" as="geometry" />
         </mxCell>
         <mxCell id="3V9UZf0SNv3yNVWR_qLZ-7" edge="1" parent="1" source="3V9UZf0SNv3yNVWR_qLZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.07;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.167;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" target="3V9UZf0SNv3yNVWR_qLZ-6">
           <mxGeometry relative="1" as="geometry" />
@@ -63,6 +63,21 @@
         </mxCell>
         <mxCell id="fz-o9FOIOGUbKM3HRnTC-11" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="This could also work for medical transportation, or going to areas with high parking prices with a group (downtown)" vertex="1">
           <mxGeometry height="170" width="220" x="200" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="EzhNCbNShWACHMv4SYCz-1" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="Could be used in colleges" vertex="1">
+          <mxGeometry height="80" width="120" x="100" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="EzhNCbNShWACHMv4SYCz-2" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="offer it as shuttle for hertz, Avis etc" vertex="1">
+          <mxGeometry height="90" width="170" x="230" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="EzhNCbNShWACHMv4SYCz-3" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="employers or corporations that move employees between campuses" vertex="1">
+          <mxGeometry height="80" width="120" x="470" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="EzhNCbNShWACHMv4SYCz-4" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="Univeristy safe ride for late night" vertex="1">
+          <mxGeometry height="80" width="120" x="30" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="EzhNCbNShWACHMv4SYCz-5" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="need to explore rural areas, could have potential" vertex="1">
+          <mxGeometry height="80" width="120" x="200" y="1040" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
