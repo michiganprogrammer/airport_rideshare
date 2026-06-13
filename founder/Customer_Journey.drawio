@@ -4,8 +4,62 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SQ6RJZ858ZaK-6MbbEiQ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="80" y="100" as="geometry" />
+        <mxCell id="30ajlJ3EDaKUPWSMpJR4-3" edge="1" parent="1" source="30ajlJ3EDaKUPWSMpJR4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="30ajlJ3EDaKUPWSMpJR4-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="30ajlJ3EDaKUPWSMpJR4-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Customer Makes account" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="30ajlJ3EDaKUPWSMpJR4-7" edge="1" parent="1" source="30ajlJ3EDaKUPWSMpJR4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="30ajlJ3EDaKUPWSMpJR4-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="30ajlJ3EDaKUPWSMpJR4-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Logs in" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="30ajlJ3EDaKUPWSMpJR4-9" edge="1" parent="1" source="30ajlJ3EDaKUPWSMpJR4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="30ajlJ3EDaKUPWSMpJR4-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="30ajlJ3EDaKUPWSMpJR4-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Set destination and time" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="30ajlJ3EDaKUPWSMpJR4-11" edge="1" parent="1" source="30ajlJ3EDaKUPWSMpJR4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="30ajlJ3EDaKUPWSMpJR4-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="30ajlJ3EDaKUPWSMpJR4-8" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Receive prices and what time they&#39;ll reach destination" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="30ajlJ3EDaKUPWSMpJR4-13" edge="1" parent="1" source="30ajlJ3EDaKUPWSMpJR4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="30ajlJ3EDaKUPWSMpJR4-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="30ajlJ3EDaKUPWSMpJR4-10" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Customer Accepts ride" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="30ajlJ3EDaKUPWSMpJR4-26" edge="1" parent="1" source="30ajlJ3EDaKUPWSMpJR4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="30ajlJ3EDaKUPWSMpJR4-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="30ajlJ3EDaKUPWSMpJR4-12" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Page confirms ride is booked, also send email" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="30ajlJ3EDaKUPWSMpJR4-19" edge="1" parent="1" source="30ajlJ3EDaKUPWSMpJR4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="30ajlJ3EDaKUPWSMpJR4-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="30ajlJ3EDaKUPWSMpJR4-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Van comes to pick up location" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="30ajlJ3EDaKUPWSMpJR4-21" edge="1" parent="1" source="30ajlJ3EDaKUPWSMpJR4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="30ajlJ3EDaKUPWSMpJR4-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="30ajlJ3EDaKUPWSMpJR4-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="customer gets in van" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="30ajlJ3EDaKUPWSMpJR4-23" edge="1" parent="1" source="30ajlJ3EDaKUPWSMpJR4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="30ajlJ3EDaKUPWSMpJR4-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="30ajlJ3EDaKUPWSMpJR4-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="van drops off customer at locaiton" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="30ajlJ3EDaKUPWSMpJR4-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="customer receives email receipt and option to rate driver" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="1310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
