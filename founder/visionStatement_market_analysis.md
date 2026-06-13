@@ -52,6 +52,10 @@ The main goal is to get this to work for Airports. If it works for airports then
 - no eating in the car or drinking --- have them pay a fee. ned to have camera in car
 - need a way to make sure rider doesn't ride again. meaning friend can't book for them.
 - need make sure every customer checks that no food is allowed
+- no pets are allowed
+- no smoking
+- if the place is a gated community
+- 
 
 
 
