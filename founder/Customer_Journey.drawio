@@ -37,7 +37,7 @@
         <mxCell id="30ajlJ3EDaKUPWSMpJR4-26" edge="1" parent="1" source="30ajlJ3EDaKUPWSMpJR4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="30ajlJ3EDaKUPWSMpJR4-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="30ajlJ3EDaKUPWSMpJR4-12" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Page confirms ride is booked, also send email" vertex="1">
+        <mxCell id="30ajlJ3EDaKUPWSMpJR4-12" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="customer gets map of van location live" vertex="1">
           <mxGeometry height="60" width="120" x="50" y="920" as="geometry" />
         </mxCell>
         <mxCell id="30ajlJ3EDaKUPWSMpJR4-19" edge="1" parent="1" source="30ajlJ3EDaKUPWSMpJR4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="30ajlJ3EDaKUPWSMpJR4-18" value="">
@@ -61,7 +61,10 @@
         <mxCell id="30ajlJ3EDaKUPWSMpJR4-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="customer receives email receipt and option to rate driver" vertex="1">
           <mxGeometry height="60" width="120" x="50" y="1450" as="geometry" />
         </mxCell>
-        <mxCell id="30ajlJ3EDaKUPWSMpJR4-27" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Customer Accepts ride" vertex="1">
+        <mxCell id="30ajlJ3EDaKUPWSMpJR4-31" edge="1" parent="1" source="30ajlJ3EDaKUPWSMpJR4-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="30ajlJ3EDaKUPWSMpJR4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="30ajlJ3EDaKUPWSMpJR4-27" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Page confirms ride is booked, also send email" vertex="1">
           <mxGeometry height="60" width="120" x="30" y="780" as="geometry" />
         </mxCell>
       </root>
