@@ -4,6 +4,51 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="W_qB-0zlx5zQeHBlvOvW-3" edge="1" parent="1" source="W_qB-0zlx5zQeHBlvOvW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="W_qB-0zlx5zQeHBlvOvW-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_qB-0zlx5zQeHBlvOvW-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Driver signs up&amp;nbsp;&lt;br&gt;(Name, address, phone number , van, license plate)" vertex="1">
+          <mxGeometry height="60" width="280" x="300" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="W_qB-0zlx5zQeHBlvOvW-5" edge="1" parent="1" source="W_qB-0zlx5zQeHBlvOvW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="W_qB-0zlx5zQeHBlvOvW-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_qB-0zlx5zQeHBlvOvW-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Logs in" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="W_qB-0zlx5zQeHBlvOvW-7" edge="1" parent="1" source="W_qB-0zlx5zQeHBlvOvW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="W_qB-0zlx5zQeHBlvOvW-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_qB-0zlx5zQeHBlvOvW-4" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="sets availability for next 2 weeks" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="W_qB-0zlx5zQeHBlvOvW-9" edge="1" parent="1" source="W_qB-0zlx5zQeHBlvOvW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="W_qB-0zlx5zQeHBlvOvW-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_qB-0zlx5zQeHBlvOvW-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="gets ride with name of passangers and list destinations (total trip time estimate)" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="W_qB-0zlx5zQeHBlvOvW-11" edge="1" parent="1" source="W_qB-0zlx5zQeHBlvOvW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="W_qB-0zlx5zQeHBlvOvW-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_qB-0zlx5zQeHBlvOvW-8" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="goes to airport to pick them up" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="W_qB-0zlx5zQeHBlvOvW-13" edge="1" parent="1" source="W_qB-0zlx5zQeHBlvOvW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="W_qB-0zlx5zQeHBlvOvW-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_qB-0zlx5zQeHBlvOvW-10" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="drives to destination one by one" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="W_qB-0zlx5zQeHBlvOvW-15" edge="1" parent="1" source="W_qB-0zlx5zQeHBlvOvW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="W_qB-0zlx5zQeHBlvOvW-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_qB-0zlx5zQeHBlvOvW-12" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;div&gt;confirms each has reached destination&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="W_qB-0zlx5zQeHBlvOvW-14" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;div&gt;trip complete and is logged as a trip with details of pay, milage etc&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="1070" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
