@@ -4,6 +4,52 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wllHSmSikJM-L9H1uCEE-3" edge="1" parent="1" source="wllHSmSikJM-L9H1uCEE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wllHSmSikJM-L9H1uCEE-2" value="Successful">
+          <mxGeometry relative="1" x="0.5556" y="-5" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wllHSmSikJM-L9H1uCEE-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Login" vertex="1">
+          <mxGeometry height="80" width="130" x="290" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wllHSmSikJM-L9H1uCEE-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Book Ride" vertex="1">
+          <mxGeometry height="80" width="120" x="295" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="wllHSmSikJM-L9H1uCEE-4" edge="1" parent="1" source="wllHSmSikJM-L9H1uCEE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" target="wllHSmSikJM-L9H1uCEE-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="355" y="280" />
+              <mxPoint x="550" y="280" />
+              <mxPoint x="550" y="150" />
+              <mxPoint x="362" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wllHSmSikJM-L9H1uCEE-5" connectable="0" parent="wllHSmSikJM-L9H1uCEE-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Fail" vertex="1">
+          <mxGeometry relative="1" x="0.0603" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wllHSmSikJM-L9H1uCEE-9" edge="1" parent="1" source="wllHSmSikJM-L9H1uCEE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wllHSmSikJM-L9H1uCEE-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="80" />
+              <mxPoint x="355" y="80" />
+            </Array>
+            <mxPoint x="660" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wllHSmSikJM-L9H1uCEE-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Make Account" vertex="1">
+          <mxGeometry height="80" width="120" x="590" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="wllHSmSikJM-L9H1uCEE-7" edge="1" parent="1" source="wllHSmSikJM-L9H1uCEE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.613;entryDx=0;entryDy=0;entryPerimeter=0;" target="wllHSmSikJM-L9H1uCEE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wllHSmSikJM-L9H1uCEE-8" connectable="0" parent="wllHSmSikJM-L9H1uCEE-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Fail" vertex="1">
+          <mxGeometry relative="1" x="0.2885" y="-4" as="geometry">
+            <mxPoint x="3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
