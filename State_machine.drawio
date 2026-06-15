@@ -9,7 +9,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wllHSmSikJM-L9H1uCEE-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Unlogged" vertex="1">
+        <mxCell id="wllHSmSikJM-L9H1uCEE-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Home" vertex="1">
           <mxGeometry height="80" width="130" x="290" y="160" as="geometry" />
         </mxCell>
         <mxCell id="wllHSmSikJM-L9H1uCEE-11" edge="1" parent="1" source="wllHSmSikJM-L9H1uCEE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wllHSmSikJM-L9H1uCEE-10" value="">
@@ -47,7 +47,7 @@
             <mxPoint x="660" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wllHSmSikJM-L9H1uCEE-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Account creation" vertex="1">
+        <mxCell id="wllHSmSikJM-L9H1uCEE-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Register" vertex="1">
           <mxGeometry height="80" width="120" x="590" y="300" as="geometry" />
         </mxCell>
         <mxCell id="wllHSmSikJM-L9H1uCEE-7" edge="1" parent="1" source="wllHSmSikJM-L9H1uCEE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.613;entryDx=0;entryDy=0;entryPerimeter=0;" target="wllHSmSikJM-L9H1uCEE-6">
@@ -93,6 +93,20 @@
         <mxCell id="wllHSmSikJM-L9H1uCEE-19" connectable="0" parent="wllHSmSikJM-L9H1uCEE-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Destination reached" vertex="1">
           <mxGeometry relative="1" x="-0.1" y="-4" as="geometry">
             <mxPoint y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wllHSmSikJM-L9H1uCEE-24" edge="1" parent="1" source="wllHSmSikJM-L9H1uCEE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="780" />
+              <mxPoint x="100" y="460" />
+            </Array>
+            <mxPoint x="290" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wllHSmSikJM-L9H1uCEE-25" connectable="0" parent="wllHSmSikJM-L9H1uCEE-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ride doesn&#39;t come in&amp;nbsp;&lt;br&gt;one minute" vertex="1">
+          <mxGeometry relative="1" x="-0.7397" y="1" as="geometry">
+            <mxPoint x="-14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wllHSmSikJM-L9H1uCEE-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="traveling" vertex="1">
