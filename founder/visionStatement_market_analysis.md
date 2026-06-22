@@ -21,16 +21,16 @@ also they don't really have apps.
 
 ## Who is your customer
 
-Someone just landed at an airport and needs a ride to their destination. That's the main customer
-Others could potentially be offering a shuttle service to say corporations, colleges, hotels, hospitals, baseball games.
+Someone who just landed at an airport and needs a ride to their destination. That's the main customer.
+Others that could have potential could are shuttle service to corporations, colleges, hotels, hospitals, baseball games.
 This could also work well in high desnity areas, think of dollarVans
 
 
 ## What are you assumptions
 
 I assume people will want to save some money, I'm also hoping that a minibus would be appealing.
-Also I'm assuming they will be better cliens, not having to deal with drunks
-I'm assuming insurance won't be too high, also that the laws won't be against me
+Also I'm assuming they will be better clients, not having to deal with drunks
+I'm assuming insurance won't be too high, also that the laws won't be against me.
 
 ## what things are inscope / out of scope
 
@@ -46,7 +46,7 @@ The main goal is to get this to work for Airports. If it works for airports then
 - traffic and want to not follow ruote ---- let the rider know, and give the rider a message in app that he's a good driver and we let them choose
 - If rider doesn't come in 1 minute --- let rider cancel and charge them
 - van sizes change -- allow driver to input max seats possible in their van
-- how will rider know it's you and vice versa -- have rider scan qr code or some other way
+- how will rider know it's you and vice versa?? -- have rider scan qr code or some other way
 - let someone book for guest --- that's allowed just need name etc
 - baby seat -- warn passanger that baby seats are required
 - no eating in the car or drinking --- have them pay a fee. ned to have camera in car
