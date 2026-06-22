@@ -38,14 +38,8 @@
             <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mguiP6TVmpAt38DfT10o-8" edge="1" parent="1" source="mguiP6TVmpAt38DfT10o-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="mguiP6TVmpAt38DfT10o-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="590" y="20" />
-              <mxPoint x="295" y="20" />
-            </Array>
-            <mxPoint x="600" y="20" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="mguiP6TVmpAt38DfT10o-29" edge="1" parent="1" source="mguiP6TVmpAt38DfT10o-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="mguiP6TVmpAt38DfT10o-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mguiP6TVmpAt38DfT10o-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Register" vertex="1">
           <mxGeometry height="80" width="120" x="530" y="240" as="geometry" />
@@ -128,6 +122,23 @@
         </mxCell>
         <mxCell id="mguiP6TVmpAt38DfT10o-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Driver_resting" vertex="1">
           <mxGeometry height="80" width="120" x="567.5" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="mguiP6TVmpAt38DfT10o-30" edge="1" parent="1" source="mguiP6TVmpAt38DfT10o-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="mguiP6TVmpAt38DfT10o-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="110" />
+              <mxPoint x="550" y="70" />
+              <mxPoint x="360" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mguiP6TVmpAt38DfT10o-31" connectable="0" parent="mguiP6TVmpAt38DfT10o-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Approved&lt;br&gt;Account" vertex="1">
+          <mxGeometry relative="1" x="-0.76" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mguiP6TVmpAt38DfT10o-28" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Approval" vertex="1">
+          <mxGeometry height="80" width="120" x="650" y="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
