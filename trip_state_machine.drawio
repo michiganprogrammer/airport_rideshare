@@ -4,40 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Gz_-l-qtndXPY_ptsec8-25" edge="1" parent="1" source="Gz_-l-qtndXPY_ptsec8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Gz_-l-qtndXPY_ptsec8-24">
+        <mxCell id="Gz_-l-qtndXPY_ptsec8-32" edge="1" parent="1" source="Gz_-l-qtndXPY_ptsec8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Gz_-l-qtndXPY_ptsec8-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gz_-l-qtndXPY_ptsec8-26" connectable="0" parent="Gz_-l-qtndXPY_ptsec8-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Found enough riders for van" vertex="1">
-          <mxGeometry relative="1" x="-0.175" y="1" as="geometry">
+        <mxCell id="Gz_-l-qtndXPY_ptsec8-33" connectable="0" parent="Gz_-l-qtndXPY_ptsec8-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Found enough riders to fill Van" vertex="1">
+          <mxGeometry relative="1" x="0.0455" y="2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Gz_-l-qtndXPY_ptsec8-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Forming" vertex="1">
           <mxGeometry height="80" width="120" x="390" y="170" as="geometry" />
-        </mxCell>
-        <mxCell id="Gz_-l-qtndXPY_ptsec8-28" edge="1" parent="1" source="Gz_-l-qtndXPY_ptsec8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Gz_-l-qtndXPY_ptsec8-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Gz_-l-qtndXPY_ptsec8-29" connectable="0" parent="Gz_-l-qtndXPY_ptsec8-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Driver confirms trip is acceptable" vertex="1">
-          <mxGeometry relative="1" x="0.1" y="4" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Gz_-l-qtndXPY_ptsec8-30" edge="1" parent="1" source="Gz_-l-qtndXPY_ptsec8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Gz_-l-qtndXPY_ptsec8-23">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="230" y="370" />
-              <mxPoint x="230" y="210" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Gz_-l-qtndXPY_ptsec8-31" connectable="0" parent="Gz_-l-qtndXPY_ptsec8-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Driver cancels trip" vertex="1">
-          <mxGeometry relative="1" x="-0.7375" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Gz_-l-qtndXPY_ptsec8-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Assigning" vertex="1">
-          <mxGeometry height="80" width="120" x="390" y="330" as="geometry" />
         </mxCell>
         <mxCell id="Gz_-l-qtndXPY_ptsec8-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Assigned" vertex="1">
           <mxGeometry height="80" width="120" x="390" y="470" as="geometry" />
